@@ -1,6 +1,8 @@
 body {
-    background-image: url("https://www.barraques.cat/pngfile/big/40-407590_plain-rose-gold-pink-background-rose-gold-pink.jpg");
+    background-image: url("https://www.group50.com/wp-content/uploads/2015/05/canstockphoto16965606.jpg");
     /* background-image: url("https://wallpaperplay.com/walls/full/0/b/5/15731.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   #table-of-contents {
