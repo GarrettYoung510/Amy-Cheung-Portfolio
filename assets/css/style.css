@@ -1,7 +1,17 @@
 body {
-    background-image: url("https://www.barraques.cat/pngfile/big/40-407590_plain-rose-gold-pink-background-rose-gold-pink.jpg");
+    /* background-image: url("https://www.barraques.cat/pngfile/big/40-407590_plain-rose-gold-pink-background-rose-gold-pink.jpg"); */
+    background-image: url("https://wallpaperplay.com/walls/full/0/b/5/15731.jpg");
   }
 
   #table-of-contents {
+    font-family: 'Libre Baskerville', serif;
       font-size: 20pt;
+      background-color: #fff;
   }
+  
+  #nav,
+  #info {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20pt;
+  }
+
